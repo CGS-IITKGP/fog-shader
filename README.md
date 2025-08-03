@@ -16,15 +16,15 @@
 <br />
 <!-- UPDATE -->
 <div align="center">
-  <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
+  <a href="https://github.com/cgs-iitkgp/Fog Shader">
      <img width="140" alt="image" src="">
   </a>
 
-  <h3 align="center">PROJECT_NAME</h3>
+  <h3 align="center">Fog Shader</h3>
 
   <p align="center">
   <!-- UPDATE -->
-    <i>Project one liner slogan goes here</i>
+    <i>Volumetric fog shader using GLSL</i>
   </p>
 </div>
 
