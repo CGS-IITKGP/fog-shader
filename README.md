@@ -55,7 +55,16 @@
   </a>
 </div>
 
-_Detailed explaination of the project goes here_
+Here is a detailed explanation of the project to insert into your README file.
+
+About The Project
+<div align="center">
+<a href="https://github.com/shourya-kr/fog-shader">
+<img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
+</a>
+</div>
+
+This project is a C++ and OpenGL implementation of a volumetric fog shader. It demonstrates a common computer graphics technique used to add depth, atmosphere, and mood to a 3D scene.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
