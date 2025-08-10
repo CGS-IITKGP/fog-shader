@@ -50,7 +50,7 @@
 ## About The Project
 <!-- UPDATE -->
 <div align="center">
-  <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
+  <a href="https://github.com/cgs-iitkgp/fog-shader">
     <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
   </a>
 </div>
@@ -63,33 +63,9 @@ _Detailed explaination of the project goes here_
 
 To set up a local instance of the application, follow the steps below.
 
-### Prerequisites
-The following dependencies are required to be installed for the project to function properly:
-<!-- UPDATE -->
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Prerequisites and Installations
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-### Installation
-
-_Now that the environment has been set up and configured to properly compile and run the project, the next step is to install and configure the project locally on your system._
-<!-- UPDATE -->
-1. Clone the repository
-   ```sh
-   git clone https://github.com/cgs-iitkgp/PROJECT_NAME.git
-   ```
-2. Make the script executable
-   ```sh
-   cd ./PROJECT_NAME
-   chmod +x ./PROJECT_NAME
-   ```
-3. Execute the script
-   ```sh
-   ./PROJECT_NAME
-   ```
+The environment needed is just the shadertoy (Available online, so no further installations required)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -100,7 +76,7 @@ _Now that the environment has been set up and configured to properly compile and
 Use this space to show useful examples of how this project can be used. Additional screenshots, code examples and demos work well in this space.
 
 <div align="center">
-  <a href="https://github.com/cgs-iitkgp/PROJECT_NAME">
+  <a href="https://github.com/cgs-iitkgp/fog-shader">
     <img width="80%" alt="image" src="">
   </a>
 </div>
@@ -121,7 +97,7 @@ The currently active maintainer(s) of this project.
 Honoring the original creator(s) and ideator(s) of this project.
 
 <!-- UPDATE -->
-- [NAME](https://github.com/GITHUB_USERNAME)
+- [SHOURYA KUMAR](https://github.com/shourya-kr)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
