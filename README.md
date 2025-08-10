@@ -87,7 +87,7 @@ This shader is designed to run directly in a web browser on the Shadertoy platfo
 
 1.  **View the shader live:**
     *   You can see the volumetric fog shader in action by visiting the project page on Shadertoy:
-    *   **[Click here to view the Fog Shader](https://www.shadertoy.com/view/YOUR_SHADER_ID)** <-- *Remember to replace `YOUR_SHADER_ID` with the actual ID of your shader.*
+    *   **[Click here to view the Fog Shader](https:/www.shadertoy.com/view/tfGSzz)**
 
 2.  **Experiment with the code:**
     *   The shader is interactive in the sense that you can edit the code directly on the Shadertoy website to see real-time changes.
