@@ -131,4 +131,4 @@ Honoring the original creator(s) and ideator(s) of this project.
 [issues-shield]: https://img.shields.io/github/issues/shourya-kr/fog-shader.svg?style=for-the-badge
 [issues-url]: https://github.com/shourya-kr/fog-shader/issues
 [license-shield]: https://img.shields.io/github/license/shourya-kr/fog-shader.svg?style=for-the-badge
-[license-url]: https://github.com/shourya-kr/fog-shader/blob/master/LICENSE
+[license-url]: https://github.com/shourya-kr/fog-shader/blob/master/LICENSE.md
