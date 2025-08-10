@@ -83,7 +83,18 @@ The environment needed is just the shadertoy (Available online, so no further in
 <!-- USAGE EXAMPLES -->
 ## Usage
 <!-- UPDATE -->
-Use this space to show useful examples of how this project can be used. Additional screenshots, code examples and demos work well in this space.
+This shader is designed to run directly in a web browser on the Shadertoy platform. No local installation or setup is required.
+
+1.  **View the shader live:**
+    *   You can see the volumetric fog shader in action by visiting the project page on Shadertoy:
+    *   **[Click here to view the Fog Shader](https://www.shadertoy.com/view/YOUR_SHADER_ID)** <-- *Remember to replace `YOUR_SHADER_ID` with the actual ID of your shader.*
+
+2.  **Experiment with the code:**
+    *   The shader is interactive in the sense that you can edit the code directly on the Shadertoy website to see real-time changes.
+    *   Try modifying these constants at the top of the code to see how they affect the visuals:
+        *   `density_fog`: Increase this value for thicker, more opaque fog, or decrease it for a lighter haze.
+        *   `height_fog`: Adjust this to control how the fog settles in the valleys versus on the hilltops.
+        *   `lightdirn`: Change the `vec3` values to alter the direction of the light source and see how shadows and highlights are affected.
 
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/fog-shader">
