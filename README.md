@@ -60,13 +60,13 @@ This project is a C++ and OpenGL implementation of a volumetric fog shader. It d
 
 ## Project Overview
 
-->**Procedural Noise and Fog** - Dynamic, atmospheric fog is created using multiple layers of procedural noise, making it appear turbulent and natural. The fog's density realistically increases with distance and decreases with altitude, adding depth to the scene.
+- **Procedural Noise and Fog** - Dynamic, atmospheric fog is created using multiple layers of procedural noise, making it appear turbulent and natural. The fog's density realistically increases with distance and decreases with altitude, adding depth to the scene.
  
-->**RayMarching** - This technique renders the procedural landscape by casting a ray for each pixel and "marching" it through the scene. The final color is determined by where this ray intersects with the terrain surface.
+- **RayMarching** - This technique renders the procedural landscape by casting a ray for each pixel and "marching" it through the scene. The final color is determined by where this ray intersects with the terrain surface.
 
-->**Terrain Formation** - The terrain's shape is procedurally generated using layered sine waves to create rolling hills and valleys. The surface is then shaded by calculating its normals for realistic lighting and applying a base texture color.
+- **Terrain Formation** - The terrain's shape is procedurally generated using layered sine waves to create rolling hills and valleys. The surface is then shaded by calculating its normals for realistic lighting and applying a base texture color.
 
-->**Main Execution** - This function serves as the entry point, setting up the animated camera's position and view for the scene. It then coordinates the raymarching and shading processes for every pixel to produce the final image.
+- **Main Execution** - This function serves as the entry point, setting up the animated camera's position and view for the scene. It then coordinates the raymarching and shading processes for every pixel to produce the final image.
 
 ## Getting Started
 
