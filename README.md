@@ -122,13 +122,13 @@ Honoring the original creator(s) and ideator(s) of this project.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/cgs-iitkgp/fog-shader.svg?style=for-the-badge
-[contributors-url]: https://github.com/cgs-iitkgp/fog-shader/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/cgs-iitkgp/fog-shader.svg?style=for-the-badge
-[forks-url]: https://github.com/cgs-iitkgp/fog-shader/network/members
-[stars-shield]: https://img.shields.io/github/stars/cgs-iitkgp/fog-shader.svg?style=for-the-badge
-[stars-url]: https://github.com/cgs-iitkgp/fog-shader/stargazers
-[issues-shield]: https://img.shields.io/github/issues/cgs-iitkgp/fog-shader.svg?style=for-the-badge
-[issues-url]: https://github.com/cgs-iitkgp/fog-shader/issues
-[license-shield]: https://img.shields.io/github/license/cgs-iitkgp/fog-shader.svg?style=for-the-badge
-[license-url]: https://github.com/cgs-iitkgp/fog-shader/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/shourya-kr/fog-shader.svg?style=for-the-badge
+[contributors-url]: https://github.com/shourya-kr/fog-shader/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/shourya-kr/fog-shader.svg?style=for-the-badge
+[forks-url]: https://github.com/shourya-kr/fog-shader/network/members
+[stars-shield]: https://img.shields.io/github/stars/shourya-kr/fog-shader.svg?style=for-the-badge
+[stars-url]: https://github.com/shourya-kr/fog-shader/stargazers
+[issues-shield]: https://img.shields.io/github/issues/shourya-kr/fog-shader.svg?style=for-the-badge
+[issues-url]: https://github.com/shourya-kr/fog-shader/issues
+[license-shield]: https://img.shields.io/github/license/shourya-kr/fog-shader.svg?style=for-the-badge
+[license-url]: https://github.com/shourya-kr/fog-shader/blob/master/LICENSE
