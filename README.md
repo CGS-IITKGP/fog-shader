@@ -48,16 +48,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<!-- UPDATE -->
-<div align="center">
-  <a href="https://github.com/cgs-iitkgp/fog-shader">
-    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
-  </a>
-</div>
 
-Here is a detailed explanation of the project to insert into your README file.
-
-About The Project
 <div align="center">
 <a href="https://github.com/shourya-kr/fog-shader">
 <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
