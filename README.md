@@ -87,7 +87,7 @@ This shader is designed to run directly in a web browser on the Shadertoy platfo
 
 1.  **View the shader live:**
     *   You can see the volumetric fog shader in action by visiting the project page on Shadertoy:
-    *   **[Click here to view the Fog Shader](https:/www.shadertoy.com/view/tfGSzz)**
+    *   **[Click here to view the Fog Shader](https://www.shadertoy.com/view/tfGSzz)**
 
 2.  **Experiment with the code:**
     *   The shader is interactive in the sense that you can edit the code directly on the Shadertoy website to see real-time changes.
@@ -98,7 +98,6 @@ This shader is designed to run directly in a web browser on the Shadertoy platfo
 
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/fog-shader">
-    <img width="80%" alt="image" src="">
   </a>
 </div>
 
@@ -125,8 +124,6 @@ Honoring the original creator(s) and ideator(s) of this project.
 ## Additional documentation
 
   - [License](/LICENSE.md)
-  - [Code of Conduct](/.github/CODE_OF_CONDUCT.md)
-  - [Security Policy](/.github/SECURITY.md)
   - [Contribution Guidelines](/.github/CONTRIBUTING.md)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
