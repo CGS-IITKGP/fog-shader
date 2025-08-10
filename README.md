@@ -17,7 +17,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/cgs-iitkgp/Fog Shader">
-     <img width="140" alt="image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftlauncher.org%2Fen%2Fshaders-pe-120_157%2Ff-o-g-1-20_21280.html&psig=AOvVaw15pzYFUsm-RZl0ubQMr1qR&ust=1754933207947000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiqg-fhgI8DFQAAAAAdAAAAABAE">
+     <img width="650" alt="image" src="https://github.com/user-attachments/assets/adc1c34b-894a-44de-8ddd-7e5583227831">
   </a>
 
   <h3 align="center">Fog Shader</h3>
