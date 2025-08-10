@@ -35,7 +35,7 @@
 
 - [About The Project](#about-the-project)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
+  - [Prerequisites](#prerequisites-and-installations)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
