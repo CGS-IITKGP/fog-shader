@@ -123,7 +123,7 @@ Honoring the original creator(s) and ideator(s) of this project.
 ## Additional documentation
 
   - [License](/LICENSE.md)
-  - [Contribution Guidelines](/.github/CONTRIBUTING.md)
+  - [Contribution Guidelines](/CONTRIBUTING.md)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
